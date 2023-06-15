@@ -1,4 +1,6 @@
-# Getting Started with Create React App and Redux<img width="1440" alt="Screenshot 2023-03-04 at 12 19 54" src="https://user-images.githubusercontent.com/102245292/222885309-ec91e34d-9d09-41fa-85c9-b05f56c90203.png">
+Linekdin (clone) allows individuals to create accounts and post their professional profiles, mimicking the functionality of the popular professional networking platform.
+Using React, I designed and developed a user-friendly interface that closely resembled the LinkedIn layout. I ensured that users could seamlessly navigate through different sections. Integrating Firebase into the project provided a scalable and secure backend solution. I leveraged Firebase's authentication and database services to handle user registration, login, and storage of profile information. This allowed users to securely create accounts and maintain their professional profiles within the application. To enhance the user experience, I implemented features such as profile editing, profile search, and the ability to connect with other users. 
+<img width="1440" alt="Screenshot 2023-03-04 at 12 19 54" src="https://user-images.githubusercontent.com/102245292/222885309-ec91e34d-9d09-41fa-85c9-b05f56c90203.png">
 
 <img width="1440" alt="Screenshot 2023-03-04 at 12 20 14" src="https://user-images.githubusercontent.com/102245292/222885312-4f17a789-ccd7-4db8-ad0a-163c93d08cd4.png">
 
